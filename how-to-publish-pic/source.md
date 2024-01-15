@@ -28,5 +28,7 @@
 ### 4.参考示例
 
 这篇文档的 markdown 源文件及图片都放在下边这个仓库里了，可以参考查看。
+
 https://github.com/liu-shichao/blog-pic/tree/main/how-to-publish-pic
+
 其中的 source.md 是这篇文档的源文件。
